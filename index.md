@@ -1,6 +1,6 @@
 # About Me
 
-Data Analyst and Business Intelligence specialist focused on **dimensional data modeling, analytics engineering, and advanced DAX solutions in Power BI**. I specialize in bridging robust data architectures (backend governance, star schemas, and query optimization) with intuitive, decision-oriented dashboards.
+*Business & Data Analyst* specializing in dimensional modeling, KPI design, and advanced DAX solutions in Power BI. With experience translating complex stakeholder workflows into actionable analytics, I design scalable star schemas and intuitive dashboards that drive strategic decisions. Passionate about data governance, root-cause analysis, and bridging the gap between business operations and technical data architecture.
 
 ---
 
